@@ -30,7 +30,7 @@
                 "label": "Sign Up",
                 "url": "/signup",
                 "style": "secondary",
-                "has_icon": true
+                "has_icon": false
             }
         ]
     },
