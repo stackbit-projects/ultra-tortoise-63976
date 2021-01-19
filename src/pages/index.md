@@ -12,7 +12,7 @@ sections:
     actions:
       - label: Learn More
         url: /features
-        style: primary
+        style: link
   - section_id: features
     type: section_features
     background: gray
