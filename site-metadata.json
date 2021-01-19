@@ -29,7 +29,7 @@
             {
                 "label": "Sign Up",
                 "url": "/signup",
-                "style": "primary"
+                "style": "secondary"
             }
         ]
     },
