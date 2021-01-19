@@ -29,7 +29,8 @@
             {
                 "label": "Sign Up",
                 "url": "/signup",
-                "style": "secondary"
+                "style": "secondary",
+                "has_icon": true
             }
         ]
     },
